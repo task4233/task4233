@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/task4233/malgrapher/pull/7) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-2. 💪 Opened PR [#7](https://github.com/task4233/malgrapher/pull/7) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-3. ❗️ Opened issue [#6](https://github.com/task4233/malgrapher/issues/6) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-4. ❗️ Opened issue [#5](https://github.com/task4233/malgrapher/issues/5) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-5. ❗️ Opened issue [#4](https://github.com/task4233/malgrapher/issues/4) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
+1. 🎉 Merged PR [#9](https://github.com/task4233/malgrapher/pull/9) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
+2. 💪 Opened PR [#9](https://github.com/task4233/malgrapher/pull/9) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
+3. 🎉 Merged PR [#8](https://github.com/task4233/malgrapher/pull/8) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
+4. 💪 Opened PR [#8](https://github.com/task4233/malgrapher/pull/8) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
+5. 🎉 Merged PR [#7](https://github.com/task4233/malgrapher/pull/7) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
 <!--END_SECTION:activity-->
