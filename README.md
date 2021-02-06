@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/task4233/malgrapher/pull/11) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-2. 💪 Opened PR [#11](https://github.com/task4233/malgrapher/pull/11) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-3. 🎉 Merged PR [#10](https://github.com/task4233/malgrapher/pull/10) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-4. 💪 Opened PR [#10](https://github.com/task4233/malgrapher/pull/10) in [task4233/malgrapher](https://github.com/task4233/malgrapher)
-5. 🗣 Commented on [#2712](https://github.com/MicrosoftDocs/msteams-docs/issues/2712) in [MicrosoftDocs/msteams-docs](https://github.com/MicrosoftDocs/msteams-docs)
+1. 🎉 Merged PR [#2](https://github.com/task4233/techtrain-mission/pull/2) in [task4233/techtrain-mission](https://github.com/task4233/techtrain-mission)
+2. 💪 Opened PR [#2](https://github.com/task4233/techtrain-mission/pull/2) in [task4233/techtrain-mission](https://github.com/task4233/techtrain-mission)
+3. ❌ Closed PR [#1](https://github.com/CyberAgentHack/techtrain-mission/pull/1) in [CyberAgentHack/techtrain-mission](https://github.com/CyberAgentHack/techtrain-mission)
+4. 🗣 Commented on [#1](https://github.com/CyberAgentHack/techtrain-mission/issues/1) in [CyberAgentHack/techtrain-mission](https://github.com/CyberAgentHack/techtrain-mission)
+5. 💪 Opened PR [#1](https://github.com/CyberAgentHack/techtrain-mission/pull/1) in [CyberAgentHack/techtrain-mission](https://github.com/CyberAgentHack/techtrain-mission)
 <!--END_SECTION:activity-->
