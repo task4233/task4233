@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26531](https://github.com/kubernetes/website/pull/26531) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 🗣 Commented on [#26527](https://github.com/kubernetes/website/issues/26527) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#26490](https://github.com/kubernetes/website/issues/26490) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#26527](https://github.com/kubernetes/website/issues/26527) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#26531](https://github.com/kubernetes/website/pull/26531) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🗣 Commented on [#26527](https://github.com/kubernetes/website/issues/26527) in [kubernetes/website](https://github.com/kubernetes/website)
 4. 🗣 Commented on [#26490](https://github.com/kubernetes/website/issues/26490) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 💪 Opened PR [#26490](https://github.com/kubernetes/website/pull/26490) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#26490](https://github.com/kubernetes/website/issues/26490) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
