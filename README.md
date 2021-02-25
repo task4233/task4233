@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/task4233/todoapi-template/issues/1) in [task4233/todoapi-template](https://github.com/task4233/todoapi-template)
-2. 🗣 Commented on [#1](https://github.com/task4233/todoapi-template/issues/1) in [task4233/todoapi-template](https://github.com/task4233/todoapi-template)
-3. ❗️ Opened issue [#16](https://github.com/task4233/note/issues/16) in [task4233/note](https://github.com/task4233/note)
-4. 🗣 Commented on [#265](https://github.com/TheAlgorithms/Go/issues/265) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🗣 Commented on [#26490](https://github.com/kubernetes/website/issues/26490) in [kubernetes/website](https://github.com/kubernetes/website)
+1. ❗️ Opened issue [#2](https://github.com/task4233/tarcov-ammo-crawler/issues/2) in [task4233/tarcov-ammo-crawler](https://github.com/task4233/tarcov-ammo-crawler)
+2. 🗣 Commented on [#1](https://github.com/task4233/tarcov-ammo-crawler/issues/1) in [task4233/tarcov-ammo-crawler](https://github.com/task4233/tarcov-ammo-crawler)
+3. 🗣 Commented on [#1](https://github.com/task4233/tarcov-ammo-crawler/issues/1) in [task4233/tarcov-ammo-crawler](https://github.com/task4233/tarcov-ammo-crawler)
+4. ❗️ Opened issue [#1](https://github.com/task4233/tarcov-ammo-crawler/issues/1) in [task4233/tarcov-ammo-crawler](https://github.com/task4233/tarcov-ammo-crawler)
+5. ❗️ Closed issue [#1](https://github.com/task4233/todoapi-template/issues/1) in [task4233/todoapi-template](https://github.com/task4233/todoapi-template)
 <!--END_SECTION:activity-->
