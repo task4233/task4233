@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/task4233/note/issues/23) in [task4233/note](https://github.com/task4233/note)
-2. 💪 Opened PR [#23](https://github.com/task4233/note/pull/23) in [task4233/note](https://github.com/task4233/note)
-3. 🎉 Merged PR [#22](https://github.com/task4233/note/pull/22) in [task4233/note](https://github.com/task4233/note)
-4. 💪 Opened PR [#22](https://github.com/task4233/note/pull/22) in [task4233/note](https://github.com/task4233/note)
-5. 🎉 Merged PR [#21](https://github.com/task4233/note/pull/21) in [task4233/note](https://github.com/task4233/note)
+1. 🎉 Merged PR [#25](https://github.com/task4233/note/pull/25) in [task4233/note](https://github.com/task4233/note)
+2. 💪 Opened PR [#25](https://github.com/task4233/note/pull/25) in [task4233/note](https://github.com/task4233/note)
+3. 🗣 Commented on [#16](https://github.com/task4233/note/issues/16) in [task4233/note](https://github.com/task4233/note)
+4. ❗️ Opened issue [#24](https://github.com/task4233/note/issues/24) in [task4233/note](https://github.com/task4233/note)
+5. 🎉 Merged PR [#23](https://github.com/task4233/note/pull/23) in [task4233/note](https://github.com/task4233/note)
 <!--END_SECTION:activity-->
