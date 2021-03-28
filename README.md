@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/openhacku-saboten/OmnisCode-backend/pull/75) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
-2. 🎉 Merged PR [#73](https://github.com/openhacku-saboten/OmnisCode-backend/pull/73) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
-3. 💪 Opened PR [#73](https://github.com/openhacku-saboten/OmnisCode-backend/pull/73) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
-4. 🎉 Merged PR [#72](https://github.com/openhacku-saboten/OmnisCode-backend/pull/72) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
-5. 💪 Opened PR [#72](https://github.com/openhacku-saboten/OmnisCode-backend/pull/72) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
+1. 🗣 Commented on [#75](https://github.com/openhacku-saboten/OmnisCode-backend/issues/75) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
+2. 🗣 Commented on [#75](https://github.com/openhacku-saboten/OmnisCode-backend/issues/75) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
+3. 🗣 Commented on [#75](https://github.com/openhacku-saboten/OmnisCode-backend/issues/75) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
+4. 💪 Opened PR [#75](https://github.com/openhacku-saboten/OmnisCode-backend/pull/75) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
+5. 🎉 Merged PR [#73](https://github.com/openhacku-saboten/OmnisCode-backend/pull/73) in [openhacku-saboten/OmnisCode-backend](https://github.com/openhacku-saboten/OmnisCode-backend)
 <!--END_SECTION:activity-->
