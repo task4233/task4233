@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/task4233/slide-decks/pull/3) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
-2. ❗️ Closed issue [#1](https://github.com/task4233/slide-decks/issues/1) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
-3. 🗣 Commented on [#1](https://github.com/task4233/slide-decks/issues/1) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
-4. 💪 Opened PR [#627](https://github.com/GoogleChrome/developer.chrome.com/pull/627) in [GoogleChrome/developer.chrome.com](https://github.com/GoogleChrome/developer.chrome.com)
-5. 💪 Opened PR [#5](https://github.com/task4233/slide-decks/pull/5) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+1. ❗️ Closed issue [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+2. 🗣 Commented on [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+3. 🗣 Commented on [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+4. 🗣 Commented on [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+5. 🗣 Commented on [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
 <!--END_SECTION:activity-->
