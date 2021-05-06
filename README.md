@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/SIT-DigiCre/groupware/pull/97) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
+1. 🎉 Merged PR [#96](https://github.com/SIT-DigiCre/groupware/pull/96) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
 2. 🗣 Commented on [#96](https://github.com/SIT-DigiCre/groupware/issues/96) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
-3. 💪 Opened PR [#96](https://github.com/SIT-DigiCre/groupware/pull/96) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
-4. ❗️ Closed issue [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
-5. 🗣 Commented on [#6](https://github.com/task4233/slide-decks/issues/6) in [task4233/slide-decks](https://github.com/task4233/slide-decks)
+3. 🎉 Merged PR [#97](https://github.com/SIT-DigiCre/groupware/pull/97) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
+4. 🗣 Commented on [#96](https://github.com/SIT-DigiCre/groupware/issues/96) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
+5. 🗣 Commented on [#97](https://github.com/SIT-DigiCre/groupware/issues/97) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
 <!--END_SECTION:activity-->
