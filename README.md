@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/task4233/note/pull/34) in [task4233/note](https://github.com/task4233/note)
-2. 🎉 Merged PR [#33](https://github.com/task4233/note/pull/33) in [task4233/note](https://github.com/task4233/note)
-3. 💪 Opened PR [#1](https://github.com/monarsan/github_mentor/pull/1) in [monarsan/github_mentor](https://github.com/monarsan/github_mentor)
-4. 🎉 Merged PR [#32](https://github.com/task4233/note/pull/32) in [task4233/note](https://github.com/task4233/note)
-5. 🎉 Merged PR [#31](https://github.com/task4233/note/pull/31) in [task4233/note](https://github.com/task4233/note)
+1. 🗣 Commented on [#102](https://github.com/SIT-DigiCre/groupware/issues/102) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
+2. 🗣 Commented on [#102](https://github.com/SIT-DigiCre/groupware/issues/102) in [SIT-DigiCre/groupware](https://github.com/SIT-DigiCre/groupware)
+3. 🎉 Merged PR [#34](https://github.com/task4233/note/pull/34) in [task4233/note](https://github.com/task4233/note)
+4. 🎉 Merged PR [#33](https://github.com/task4233/note/pull/33) in [task4233/note](https://github.com/task4233/note)
+5. 💪 Opened PR [#1](https://github.com/monarsan/github_mentor/pull/1) in [monarsan/github_mentor](https://github.com/monarsan/github_mentor)
 <!--END_SECTION:activity-->
