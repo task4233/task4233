@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/DQNEO/gospec-analyzer/pull/12) in [DQNEO/gospec-analyzer](https://github.com/DQNEO/gospec-analyzer)
-2. 🎉 Merged PR [#10](https://github.com/sort-font/webpage/pull/10) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 🗣 Commented on [#10](https://github.com/sort-font/webpage/issues/10) in [sort-font/webpage](https://github.com/sort-font/webpage)
-4. 🗣 Commented on [#57](https://github.com/kazukousen/gouml/issues/57) in [kazukousen/gouml](https://github.com/kazukousen/gouml)
-5. 💪 Opened PR [#11](https://github.com/sort-font/webpage/pull/11) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. ❗️ Opened issue [#19](https://github.com/sort-font/webpage/issues/19) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. ❗️ Opened issue [#15](https://github.com/sort-font/webpage/issues/15) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. ❗️ Closed issue [#14](https://github.com/sort-font/webpage/issues/14) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. ❗️ Opened issue [#14](https://github.com/sort-font/webpage/issues/14) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. ❗️ Opened issue [#13](https://github.com/sort-font/webpage/issues/13) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
