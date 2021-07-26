@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/sort-font/webpage/issues/19) in [sort-font/webpage](https://github.com/sort-font/webpage)
-2. ❗️ Opened issue [#15](https://github.com/sort-font/webpage/issues/15) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. ❗️ Closed issue [#14](https://github.com/sort-font/webpage/issues/14) in [sort-font/webpage](https://github.com/sort-font/webpage)
-4. ❗️ Opened issue [#14](https://github.com/sort-font/webpage/issues/14) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. ❗️ Opened issue [#13](https://github.com/sort-font/webpage/issues/13) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. 💪 Opened PR [#20](https://github.com/sort-font/webpage/pull/20) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. 🗣 Commented on [#15](https://github.com/sort-font/webpage/issues/15) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. ❗️ Opened issue [#19](https://github.com/sort-font/webpage/issues/19) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. ❗️ Opened issue [#15](https://github.com/sort-font/webpage/issues/15) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. ❗️ Closed issue [#14](https://github.com/sort-font/webpage/issues/14) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
