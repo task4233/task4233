@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/task4233/note/pull/40) in [task4233/note](https://github.com/task4233/note)
-2. ❗️ Closed issue [#22](https://github.com/sort-font/webpage/issues/22) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 🗣 Commented on [#22](https://github.com/sort-font/webpage/issues/22) in [sort-font/webpage](https://github.com/sort-font/webpage)
-4. 💪 Opened PR [#4606](https://github.com/vitejs/vite/pull/4606) in [vitejs/vite](https://github.com/vitejs/vite)
-5. 🗣 Commented on [#26](https://github.com/sort-font/webpage/issues/26) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. ❗️ Opened issue [#35](https://github.com/sort-font/webpage/issues/35) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. ❗️ Opened issue [#34](https://github.com/sort-font/webpage/issues/34) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. ❗️ Opened issue [#32](https://github.com/sort-font/webpage/issues/32) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. ❗️ Closed issue [#26](https://github.com/sort-font/webpage/issues/26) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. ❗️ Opened issue [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
