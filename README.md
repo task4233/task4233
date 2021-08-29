@@ -10,7 +10,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#39](https://github.com/sort-font/webpage/issues/39) in [sort-font/webpage](https://github.com/sort-font/webpage)
 2. 🗣 Commented on [#38](https://github.com/sort-font/webpage/issues/38) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 💪 Opened PR [#4](https://github.com/taise-hub/edush/pull/4) in [taise-hub/edush](https://github.com/taise-hub/edush)
-4. 🗣 Commented on [#21](https://github.com/sort-font/webpage/issues/21) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. 💪 Opened PR [#3](https://github.com/taise-hub/edush/pull/3) in [taise-hub/edush](https://github.com/taise-hub/edush)
+3. 🗣 Commented on [#39](https://github.com/sort-font/webpage/issues/39) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. 🗣 Commented on [#38](https://github.com/sort-font/webpage/issues/38) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. 💪 Opened PR [#4](https://github.com/taise-hub/edush/pull/4) in [taise-hub/edush](https://github.com/taise-hub/edush)
 <!--END_SECTION:activity-->
