@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Ichigo-dev/isucon9/issues/2) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
+1. 💪 Opened PR [#4](https://github.com/Ichigo-dev/isucon9/pull/4) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
 2. 🗣 Commented on [#2](https://github.com/Ichigo-dev/isucon9/issues/2) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
-3. ❗️ Opened issue [#2](https://github.com/Ichigo-dev/isucon9/issues/2) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
-4. 💪 Opened PR [#1](https://github.com/Ichigo-dev/isucon9/pull/1) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
-5. 🗣 Commented on [#39](https://github.com/sort-font/webpage/issues/39) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. 🗣 Commented on [#2](https://github.com/Ichigo-dev/isucon9/issues/2) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
+4. ❗️ Opened issue [#2](https://github.com/Ichigo-dev/isucon9/issues/2) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
+5. 💪 Opened PR [#1](https://github.com/Ichigo-dev/isucon9/pull/1) in [Ichigo-dev/isucon9](https://github.com/Ichigo-dev/isucon9)
 <!--END_SECTION:activity-->
