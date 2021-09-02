@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/sort-font/webpage/pull/41) in [sort-font/webpage](https://github.com/sort-font/webpage)
-2. 🗣 Commented on [#38](https://github.com/sort-font/webpage/issues/38) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 🗣 Commented on [#40](https://github.com/sort-font/webpage/issues/40) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. 🗣 Commented on [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. 🎉 Merged PR [#43](https://github.com/sort-font/webpage/pull/43) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. 🗣 Commented on [#43](https://github.com/sort-font/webpage/issues/43) in [sort-font/webpage](https://github.com/sort-font/webpage)
 4. 🗣 Commented on [#40](https://github.com/sort-font/webpage/issues/40) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. ❗️ Closed issue [#32](https://github.com/sort-font/webpage/issues/32) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. 🗣 Commented on [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
