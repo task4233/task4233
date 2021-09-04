@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
-2. 🎉 Merged PR [#43](https://github.com/sort-font/webpage/pull/43) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 🗣 Commented on [#43](https://github.com/sort-font/webpage/issues/43) in [sort-font/webpage](https://github.com/sort-font/webpage)
-4. 🗣 Commented on [#40](https://github.com/sort-font/webpage/issues/40) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. 🗣 Commented on [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. 🗣 Commented on [#1](https://github.com/task4233/isucon9/issues/1) in [task4233/isucon9](https://github.com/task4233/isucon9)
+2. ❌ Reopened PR [#1](https://github.com/task4233/isucon9/pull/1) in [task4233/isucon9](https://github.com/task4233/isucon9)
+3. 💪 Opened PR [#1](https://github.com/task4233/test-tutorial/pull/1) in [task4233/test-tutorial](https://github.com/task4233/test-tutorial)
+4. ❌ Closed PR [#2](https://github.com/task4233/isucon9/pull/2) in [task4233/isucon9](https://github.com/task4233/isucon9)
+5. ❌ Closed PR [#1](https://github.com/task4233/isucon9/pull/1) in [task4233/isucon9](https://github.com/task4233/isucon9)
 <!--END_SECTION:activity-->
