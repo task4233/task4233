@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/cookpad/cookpad-internship-2021-summer-okawari/pull/6) in [cookpad/cookpad-internship-2021-summer-okawari](https://github.com/cookpad/cookpad-internship-2021-summer-okawari)
-2. 💪 Opened PR [#1](https://github.com/task4233/cookpad-internship-2021-summer-okawari/pull/1) in [task4233/cookpad-internship-2021-summer-okawari](https://github.com/task4233/cookpad-internship-2021-summer-okawari)
-3. 🗣 Commented on [#1](https://github.com/task4233/isucon9/issues/1) in [task4233/isucon9](https://github.com/task4233/isucon9)
-4. ❌ Reopened PR [#1](https://github.com/task4233/isucon9/pull/1) in [task4233/isucon9](https://github.com/task4233/isucon9)
-5. 💪 Opened PR [#1](https://github.com/task4233/test-tutorial/pull/1) in [task4233/test-tutorial](https://github.com/task4233/test-tutorial)
+1. ❗️ Closed issue [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. 🗣 Commented on [#31](https://github.com/sort-font/webpage/issues/31) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. 🎉 Merged PR [#49](https://github.com/sort-font/webpage/pull/49) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. 🗣 Commented on [#49](https://github.com/sort-font/webpage/issues/49) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. 💪 Opened PR [#49](https://github.com/sort-font/webpage/pull/49) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
