@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/sort-font/webpage/issues/19) in [sort-font/webpage](https://github.com/sort-font/webpage)
-2. ❗️ Closed issue [#28](https://github.com/sort-font/webpage/issues/28) in [sort-font/webpage](https://github.com/sort-font/webpage)
-3. 🗣 Commented on [#28](https://github.com/sort-font/webpage/issues/28) in [sort-font/webpage](https://github.com/sort-font/webpage)
-4. ❗️ Closed issue [#62](https://github.com/sort-font/webpage/issues/62) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. 🗣 Commented on [#62](https://github.com/sort-font/webpage/issues/62) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. 🗣 Commented on [#41](https://github.com/sort-font/webpage/issues/41) in [sort-font/webpage](https://github.com/sort-font/webpage)
+2. ❌ Closed PR [#33](https://github.com/sort-font/webpage/pull/33) in [sort-font/webpage](https://github.com/sort-font/webpage)
+3. 🗣 Commented on [#33](https://github.com/sort-font/webpage/issues/33) in [sort-font/webpage](https://github.com/sort-font/webpage)
+4. 💪 Opened PR [#73](https://github.com/sort-font/webpage/pull/73) in [sort-font/webpage](https://github.com/sort-font/webpage)
+5. 🗣 Commented on [#71](https://github.com/sort-font/webpage/issues/71) in [sort-font/webpage](https://github.com/sort-font/webpage)
 <!--END_SECTION:activity-->
