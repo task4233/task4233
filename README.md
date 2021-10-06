@@ -8,9 +8,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/task4233/note-v2-back/pull/8) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
-2. ❗️ Opened issue [#7](https://github.com/task4233/note-v2-back/issues/7) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
-3. 🎉 Merged PR [#42](https://github.com/task4233/note/pull/42) in [task4233/note](https://github.com/task4233/note)
-4. 🎉 Merged PR [#41](https://github.com/sort-font/webpage/pull/41) in [sort-font/webpage](https://github.com/sort-font/webpage)
-5. ❗️ Closed issue [#35](https://github.com/sort-font/webpage/issues/35) in [sort-font/webpage](https://github.com/sort-font/webpage)
+1. ❗️ Closed issue [#7](https://github.com/task4233/note-v2-back/issues/7) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
+2. 🎉 Merged PR [#8](https://github.com/task4233/note-v2-back/pull/8) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
+3. 💪 Opened PR [#8](https://github.com/task4233/note-v2-back/pull/8) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
+4. ❗️ Opened issue [#7](https://github.com/task4233/note-v2-back/issues/7) in [task4233/note-v2-back](https://github.com/task4233/note-v2-back)
+5. 🎉 Merged PR [#42](https://github.com/task4233/note/pull/42) in [task4233/note](https://github.com/task4233/note)
 <!--END_SECTION:activity-->
