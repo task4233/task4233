@@ -1,5 +1,5 @@
 # task4233
-![Status](https://github-readme-stats.vercel.app/api?username=task4233&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Status](https://raw.githubusercontent.com/task4233/task4233/master/github-metrics.svg)
 
 ## Links
  - [HatenaBlog](https://task4233.hatenablog.com/)
