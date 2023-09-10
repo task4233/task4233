@@ -1,7 +1,6 @@
 # task4233
-![Status](https://raw.githubusercontent.com/task4233/task4233/master/github-metrics.svg)
+Backend and Security Engineer
 
-## Links
  - [Portfolio](https://task4233.dev)
  - [HatenaBlog](https://task4233.hatenablog.com/)
  - [Qiita](https://qiita.com/task4233)
